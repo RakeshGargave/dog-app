@@ -1,0 +1,19 @@
+.container{
+   display: flex;
+   /* flex-direction:row; */
+}
+
+div .historycard{
+    display: inline-block;
+    padding: 1em;
+}
+
+ul{
+    /* text-decoration: none; */
+    list-style: none;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
